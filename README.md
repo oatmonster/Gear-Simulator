@@ -1,2 +1,2 @@
 # Gear-Simulator
-Tool gear train calculations
+Tool for gear train calculations
